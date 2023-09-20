@@ -1,4 +1,4 @@
-using ChatAppMVC.Hubs;
+using ChatApp.Hubs;
 
 var builder = WebApplication.CreateBuilder(args);
 

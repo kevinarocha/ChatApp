@@ -1,4 +1,4 @@
-namespace ChatAppMVC.Models
+namespace ChatApp.Models
 {
     public class ErrorViewModel
     {
